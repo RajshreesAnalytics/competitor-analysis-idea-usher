@@ -29,6 +29,5 @@ compared against 4 major competitors in the Indian IT market.
 - UAE market is an untapped opportunity
 
 ## 👩‍💼 Prepared By
-Rajshree Gupta — Aspiring Business/Data Analyst
-🔗 LinkedIn: linkedin.com/in/rajshree-gupta6121
+Rajshree Gupta —  Business/Data Analyst
 💻 GitHub: github.com/RajshreesAnalytics
